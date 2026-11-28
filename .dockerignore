@@ -1,5 +1,5 @@
 .git
-.github
+.githudb
 venv
 __pycache__
 *.pyc
